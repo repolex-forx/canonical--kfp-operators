@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "kfp-operators",
+  "versions": [
+    {
+      "commit": "9fbf0ba03af40f3a400faa7d794235e2f781f73b",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:04:30.362668+00:00"
+    }
+  ]
+}
