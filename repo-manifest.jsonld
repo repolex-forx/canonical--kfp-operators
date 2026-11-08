@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/kfp-operators/commit/9fbf0ba03af40f3a400faa7d794235e2f781f73b",
       "git:hexsha": "9fbf0ba03af40f3a400faa7d794235e2f781f73b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/kfp-operators/commit/938648884ba04ccbc22adf40f9c2d7348b886d30",
